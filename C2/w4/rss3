@@ -1,0 +1,2080 @@
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.059035     | 2351451.118503     | 248581.607781 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10.000000
+RSS: 10.000000, 1.098346e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.050435     | 2345224.179309     | 248380.103608 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10.000000
+RSS: 10.000000, 1.112793e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.060326     | 2299326.789985     | 250152.167605 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10.000000
+RSS: 10.000000, 9.573601e+13 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055747     | 2354816.756165     | 247026.537540 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10.000000
+RSS: 10.000000, 1.228115e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055838     | 2296419.862962     | 248326.434493 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10.000000
+RSS: 10.000000, 1.116687e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056740     | 2194053.344527     | 245487.397540 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10.000000
+RSS: 10.000000, 3.835159e+15 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057375     | 2360470.776397     | 245657.418243 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10.000000
+RSS: 10.000000, 1.353795e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.047222     | 2308254.779225     | 246337.901735 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10.000000
+RSS: 10.000000, 1.290843e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056420     | 2306046.958078     | 248052.253670 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10.000000
+RSS: 10.000000, 1.143414e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057916     | 2430033.967163     | 245776.095778 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10.000000
+RSS: 10.000000, 1.529702e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056000     | 2309576.845099     | 248700.932357 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31.622777
+RSS: 31.622777, 1.098581e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.052070     | 2301134.599513     | 248520.002941 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31.622777
+RSS: 31.622777, 1.113620e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056016     | 2345505.884809     | 250324.206346 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31.622777
+RSS: 31.622777, 9.574143e+13 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.052489     | 2307553.629172     | 247198.729401 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31.622777
+RSS: 31.622777, 1.227313e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.049478     | 2251674.871616     | 248477.642586 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31.622777
+RSS: 31.622777, 1.118169e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.054033     | 2207444.593599     | 245649.870081 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31.622777
+RSS: 31.622777, 1.808463e+15 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056341     | 2316418.571974     | 245768.220641 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31.622777
+RSS: 31.622777, 1.353617e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.050142     | 2305124.409119     | 246471.133512 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31.622777
+RSS: 31.622777, 1.294223e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055424     | 2348287.455664     | 248185.771941 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31.622777
+RSS: 31.622777, 1.146260e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055868     | 2331203.269768     | 246103.012950 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31.622777
+RSS: 31.622777, 1.356601e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.049081     | 2315845.545526     | 248886.720391 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100.000000
+RSS: 100.000000, 1.096899e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057371     | 2325942.093526     | 248697.048993 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100.000000
+RSS: 100.000000, 1.114026e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055575     | 2401827.048233     | 250499.305844 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100.000000
+RSS: 100.000000, 9.590960e+13 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.058487     | 2320672.946017     | 247388.295757 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100.000000
+RSS: 100.000000, 1.226710e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057328     | 2204828.351334     | 248639.870139 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100.000000
+RSS: 100.000000, 1.120473e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.058464     | 2322188.239089     | 245962.458439 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100.000000
+RSS: 100.000000, 5.473963e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.053639     | 2311942.814773     | 245955.370666 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100.000000
+RSS: 100.000000, 1.351152e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056483     | 2357237.963630     | 246611.459193 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100.000000
+RSS: 100.000000, 1.298892e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.060998     | 2398955.584070     | 248330.660487 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100.000000
+RSS: 100.000000, 1.149734e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.054165     | 2330919.652670     | 246506.911763 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100.000000
+RSS: 100.000000, 1.299952e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.059682     | 2384699.550023     | 249234.634317 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316.227766
+RSS: 316.227766, 1.095888e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.063611     | 2394642.614505     | 249030.107099 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316.227766
+RSS: 316.227766, 1.115662e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.059158     | 2466381.110917     | 250803.682247 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316.227766
+RSS: 316.227766, 9.620923e+13 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057011     | 2390671.088718     | 247734.199556 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316.227766
+RSS: 316.227766, 1.226807e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.072829     | 2218936.286844     | 248940.581216 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316.227766
+RSS: 316.227766, 1.123777e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.063323     | 2429566.769432     | 246400.667454 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316.227766
+RSS: 316.227766, 1.573240e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.060234     | 2384597.910059     | 246306.191484 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316.227766
+RSS: 316.227766, 1.349364e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.061831     | 2419614.716897     | 246895.798715 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316.227766
+RSS: 316.227766, 1.306157e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.060036     | 2458096.947962     | 248612.674468 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316.227766
+RSS: 316.227766, 1.153662e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.070882     | 2400119.807602     | 246918.638669 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316.227766
+RSS: 316.227766, 1.302446e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.052973     | 2427802.000616     | 250213.748342 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000.000000
+RSS: 1000.000000, 1.100315e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057844     | 2436231.128017     | 249992.133885 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000.000000
+RSS: 1000.000000, 1.125404e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.059681     | 2502511.484486     | 251704.036241 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000.000000
+RSS: 1000.000000, 9.680294e+13 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.053515     | 2433167.481352     | 248724.839141 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000.000000
+RSS: 1000.000000, 1.234819e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057522     | 2249401.151567     | 249849.559353 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000.000000
+RSS: 1000.000000, 1.131429e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.070228     | 2514383.679569     | 247388.934444 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000.000000
+RSS: 1000.000000, 1.408210e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.052055     | 2430106.688464     | 247281.314840 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000.000000
+RSS: 1000.000000, 1.352231e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.059091     | 2454129.669499     | 247793.760024 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000.000000
+RSS: 1000.000000, 1.323802e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056111     | 2488606.388996     | 249506.817335 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000.000000
+RSS: 1000.000000, 1.160023e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.052456     | 2436749.479765     | 247830.769516 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000.000000
+RSS: 1000.000000, 1.314964e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.050733     | 2330805.574917     | 253780.886024 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162.277660
+RSS: 3162.277660, 1.131983e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.070478     | 2333869.158711     | 253491.626389 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162.277660
+RSS: 3162.277660, 1.167278e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.072935     | 2392313.295170     | 255118.089457 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162.277660
+RSS: 3162.277660, 9.860986e+13 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.061438     | 2330202.024310     | 252280.419933 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162.277660
+RSS: 3162.277660, 1.275819e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.060926     | 2318975.049807     | 253315.639948 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162.277660
+RSS: 3162.277660, 1.159834e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.076132     | 2503300.872236     | 250867.661487 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162.277660
+RSS: 3162.277660, 1.384269e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055493     | 2331836.841479     | 250850.296043 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162.277660
+RSS: 3162.277660, 1.382314e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.063160     | 2342603.308494     | 251201.646218 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162.277660
+RSS: 3162.277660, 1.376371e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.059405     | 2374211.398064     | 252986.182522 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162.277660
+RSS: 3162.277660, 1.181869e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056845     | 2357875.980333     | 251323.020774 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162.277660
+RSS: 3162.277660, 1.349165e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.053618     | 2673465.707430     | 266464.216693 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000.000000
+RSS: 10000.000000, 1.258959e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.050135     | 2675305.364428     | 266075.366255 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000.000000
+RSS: 10000.000000, 1.309280e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.070956     | 2633273.592298     | 267773.680454 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000.000000
+RSS: 10000.000000, 1.063223e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.072014     | 2678320.415622     | 264987.116908 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000.000000
+RSS: 10000.000000, 1.418099e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.060108     | 2659604.124844     | 266019.358008 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000.000000
+RSS: 10000.000000, 1.274868e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.059268     | 2462439.239056     | 261975.428303 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000.000000
+RSS: 10000.000000, 1.533348e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.065806     | 2679385.614785     | 263565.799564 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000.000000
+RSS: 10000.000000, 1.528287e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.052016     | 2674770.897604     | 263729.724618 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000.000000
+RSS: 10000.000000, 1.536673e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.061229     | 2647355.644719     | 265790.668739 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000.000000
+RSS: 10000.000000, 1.275402e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055728     | 2624808.815420     | 263418.339570 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000.000000
+RSS: 10000.000000, 1.485579e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.052659     | 3426571.743484     | 297135.049205 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31622.776602
+RSS: 31622.776602, 1.578267e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055357     | 3428701.602888     | 296638.199806 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31622.776602
+RSS: 31622.776602, 1.645267e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055202     | 3405399.903534     | 298862.502647 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31622.776602
+RSS: 31622.776602, 1.314990e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055719     | 3429412.148141     | 295727.720452 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31622.776602
+RSS: 31622.776602, 1.747176e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.054760     | 3420843.909610     | 296853.903179 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31622.776602
+RSS: 31622.776602, 1.585577e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056147     | 2909206.892635     | 287426.357985 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31622.776602
+RSS: 31622.776602, 2.074696e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.054346     | 3438859.068900     | 293994.595247 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31622.776602
+RSS: 31622.776602, 1.941865e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.049123     | 3431172.400687     | 294254.041070 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31622.776602
+RSS: 31622.776602, 1.908686e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056148     | 3410757.751839     | 296987.267892 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31622.776602
+RSS: 31622.776602, 1.535625e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057263     | 3382508.496359     | 293079.800185 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 31622.776602
+RSS: 31622.776602, 1.840659e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.053120     | 4764204.795094     | 333021.531298 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100000.000000
+RSS: 100000.000000, 1.989161e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.053201     | 4757730.539122     | 332439.156175 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100000.000000
+RSS: 100000.000000, 2.063276e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.053953     | 4734986.495695     | 335182.788982 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100000.000000
+RSS: 100000.000000, 1.685275e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.054510     | 4752078.600125     | 331735.804071 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100000.000000
+RSS: 100000.000000, 2.145810e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057814     | 4744651.437935     | 332859.539483 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100000.000000
+RSS: 100000.000000, 1.991409e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.053869     | 3615513.674664     | 320435.087668 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100000.000000
+RSS: 100000.000000, 3.961297e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.054893     | 4703682.456902     | 329044.422369 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100000.000000
+RSS: 100000.000000, 2.498189e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055634     | 4756536.294315     | 329921.198517 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100000.000000
+RSS: 100000.000000, 2.366521e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.049776     | 4727627.170684     | 333554.374915 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100000.000000
+RSS: 100000.000000, 1.880194e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.065545     | 4733630.700923     | 328843.826095 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 100000.000000
+RSS: 100000.000000, 2.355012e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056086     | 5757308.552206     | 355314.949694 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316227.766017
+RSS: 316227.766017, 2.270830e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.059410     | 5753830.350889     | 354740.532332 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316227.766017
+RSS: 316227.766017, 2.341291e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056121     | 5744780.323805     | 357693.893484 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316227.766017
+RSS: 316227.766017, 1.949334e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055949     | 5750349.023107     | 354206.158132 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316227.766017
+RSS: 316227.766017, 2.405319e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.053657     | 5748098.040422     | 355273.572208 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316227.766017
+RSS: 316227.766017, 2.262934e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.049991     | 4978309.653284     | 344988.425740 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316227.766017
+RSS: 316227.766017, 3.639863e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.053566     | 5638284.654343     | 350581.536851 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316227.766017
+RSS: 316227.766017, 2.884036e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056193     | 5753396.924557     | 352130.321415 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316227.766017
+RSS: 316227.766017, 2.666299e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.050982     | 5739892.894210     | 356366.825794 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316227.766017
+RSS: 316227.766017, 2.111408e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.052628     | 5760311.608302     | 351112.585224 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 316227.766017
+RSS: 316227.766017, 2.762743e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.054535     | 6500385.583485     | 365579.619517 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000000.000000
+RSS: 1000000.000000, 2.404507e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.059849     | 6493467.196512     | 365063.501001 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000000.000000
+RSS: 1000000.000000, 2.469142e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.059885     | 6488148.854073     | 368071.707447 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000000.000000
+RSS: 1000000.000000, 2.074712e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.059252     | 6488371.173762     | 364633.185307 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000000.000000
+RSS: 1000000.000000, 2.522337e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.054991     | 6486990.932222     | 365670.088504 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000000.000000
+RSS: 1000000.000000, 2.386279e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.051665     | 5899071.729239     | 358784.447097 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000000.000000
+RSS: 1000000.000000, 2.938521e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056237     | 6516475.200490     | 360453.323692 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000000.000000
+RSS: 1000000.000000, 3.067801e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055278     | 6490744.675059     | 362442.193556 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000000.000000
+RSS: 1000000.000000, 2.801525e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057975     | 6480096.260193     | 366951.425759 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000000.000000
+RSS: 1000000.000000, 2.216042e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.051740     | 6241106.938170     | 361009.476762 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 1000000.000000
+RSS: 1000000.000000, 2.987389e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056800     | 6928557.423485     | 369615.088220 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162277.660168
+RSS: 3162277.660168, 2.456081e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.054032     | 6926853.980609     | 369139.522825 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162277.660168
+RSS: 3162277.660168, 2.517430e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056941     | 6924075.747253     | 372160.098073 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162277.660168
+RSS: 3162277.660168, 2.122785e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057110     | 6924860.171921     | 368757.480747 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162277.660168
+RSS: 3162277.660168, 2.565958e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.054185     | 6924991.877931     | 369783.940470 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162277.660168
+RSS: 3162277.660168, 2.432322e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.058221     | 6399487.717329     | 364900.652495 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162277.660168
+RSS: 3162277.660168, 2.858949e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.048696     | 6935582.894302     | 364330.490887 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162277.660168
+RSS: 3162277.660168, 3.138807e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.060913     | 6926579.215905     | 366526.480722 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162277.660168
+RSS: 3162277.660168, 2.851899e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.057604     | 6921809.378845     | 371138.070518 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162277.660168
+RSS: 3162277.660168, 2.254939e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.054407     | 6428269.711819     | 364758.873474 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 3162277.660168
+RSS: 3162277.660168, 3.082771e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.055032     | 7083884.209247     | 371021.595280 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000000.000000
+RSS: 10000000.000000, 2.473754e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.051107     | 7084135.805851     | 370562.968697 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000000.000000
+RSS: 10000000.000000, 2.533821e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.058703     | 7082223.862647     | 373586.588799 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000000.000000
+RSS: 10000000.000000, 2.139202e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056800     | 7083293.745455     | 370198.851829 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000000.000000
+RSS: 10000000.000000, 2.580678e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056450     | 7083973.700200     | 371222.065222 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000000.000000
+RSS: 10000000.000000, 2.447862e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.056198     | 6909639.072962     | 367135.001665 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000000.000000
+RSS: 10000000.000000, 2.896670e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.051629     | 7087614.852261     | 365681.699019 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000000.000000
+RSS: 10000000.000000, 3.163153e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17457
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.049346     | 7084783.924063     | 367954.926977 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000000.000000
+RSS: 10000000.000000, 2.868892e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.058336     | 7082124.487761     | 372601.248833 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000000.000000
+RSS: 10000000.000000, 2.268041e+14 
+Linear regression:
+--------------------------------------------------------
+Number of examples          : 17456
+Number of features          : 15
+Number of unpacked features : 15
+Number of coefficients    : 16
+Starting Newton Method
+--------------------------------------------------------
++-----------+----------+--------------+--------------------+---------------+
+| Iteration | Passes   | Elapsed Time | Training-max_error | Training-rmse |
++-----------+----------+--------------+--------------------+---------------+
+| 1         | 2        | 0.058779     | 6492747.587172     | 366041.873855 |
++-----------+----------+--------------+--------------------+---------------+
+SUCCESS: Optimal solution found.
+L2: 10000000.000000
+RSS: 10000000.000000, 3.116829e+14
