@@ -1,2 +1,5 @@
 .DS_Store
 *.gl
+.ipynb_checkpoints
+w6/image_test_data
+w6/image_train_data
